@@ -7,7 +7,8 @@ Esse projeto foi desenvolvido como parte do desafio prático da formação na DI
 
 ## 📌 Diagrama da Arquitetura
 
-![Diagrama da Arquitetura](./Images/diagrama - Copia.png)
+![Diagrama da Arquitetura](./Imagens/diagrama%20-%20Copia.png)
+
 
 ### 🧭 Explicação do Diagrama
 
